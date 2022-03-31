@@ -34,7 +34,7 @@ public class App
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number");
         int i = sc.nextInt();
-        System.out.println("CHANGED You entered: "+ i);
+        System.out.println("CHANGED AGAIN You entered: "+ i);
     }
 
 }
